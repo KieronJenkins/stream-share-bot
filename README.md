@@ -14,6 +14,8 @@ Twitter bot to help #smallstreamers by liking and retweeting. Building a communi
 ## Using the hashtags
 For the bot to favourite and retweet a post the user must have one of the following hashtags: #smallstreamer, #supportsmallstreamers and #streamsharebot
 
+![Readme banner image](./static/GithubTwitter.png)
+
 ## Why Twitch
 Twitch is a well known live streaming platform owned by Amazon. Many companies now use the platform to promote, document and market various products to the general public with the main product being video games.
 
